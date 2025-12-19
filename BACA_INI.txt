@@ -1,0 +1,70 @@
+╔════════════════════════════════════════════════════════════════╗
+║                     SISTEM SIJIL v1.0.0                        ║
+║              Aplikasi Pengurusan Sijil Digital                 ║
+╚════════════════════════════════════════════════════════════════╝
+
+CARA PEMASANGAN:
+================
+
+1. EXTRACT SEMUA FAIL
+   - Klik kanan pada fail ZIP ini
+   - Pilih "Extract All..."
+   - Pilih lokasi (Desktop atau Program Files)
+   - Klik "Extract"
+
+2. JALANKAN APLIKASI
+   - Buka folder yang telah di-extract
+   - Double-click pada "sistem_sijil.exe"
+
+3. JIKA ADA AMARAN WINDOWS
+   - Klik "More info"
+   - Klik "Run anyway"
+   - Ini normal untuk aplikasi baru
+
+KEPERLUAN SISTEM:
+=================
+- Windows 10 atau Windows 11 (64-bit)
+- RAM: 4 GB minimum
+- Ruang cakera: 200 MB
+
+CIRI-CIRI UTAMA:
+================
+✓ Cipta dan urus program sijil
+✓ Import senarai peserta dari Excel/CSV
+✓ Jana sijil PDF dengan QR code
+✓ Pengesahan sijil secara offline/online
+✓ Sandaran dan pulihkan data
+✓ Dwibahasa (BM & English)
+
+FAIL PENTING (JANGAN PADAM):
+============================
+- sistem_sijil.exe      → Aplikasi utama
+- flutter_windows.dll   → Runtime
+- pdfium.dll           → Enjin PDF
+- sqlite3.x64.windows.dll → Database
+- data/                → Folder assets
+
+LOKASI DATA:
+============
+Data anda disimpan di:
+C:\Users\[Nama]\Documents\SistemSijil\
+
+MASALAH & PENYELESAIAN:
+=======================
+
+Masalah: "Windows protected your PC"
+Penyelesaian: Klik "More info" → "Run anyway"
+
+Masalah: Antivirus menyekat
+Penyelesaian: Tambah folder ke exclusion list
+
+Masalah: Missing DLL error
+Penyelesaian: Extract semula SEMUA fail dari ZIP
+
+SOKONGAN:
+=========
+Untuk bantuan, sila hubungi pembangun aplikasi.
+
+════════════════════════════════════════════════════════════════
+         Terima kasih kerana menggunakan Sistem Sijil!
+════════════════════════════════════════════════════════════════
